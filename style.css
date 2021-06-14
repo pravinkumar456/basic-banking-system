@@ -1,0 +1,45 @@
+body{
+    
+    background-image: url("images/back3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+.box{
+    
+    background-image: url("images/back3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.Inner_box{
+    max-width:auto;
+    position: relative;
+    display: block;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50);
+    background: rgba(225,225,225,.4);
+    box-shadow: 0 15px 20px rgba(0,0,0,.2);
+
+
+}
+.description-container
+{
+    max-width: 800px;
+    
+}
+.description-container .floating-image
+{
+    max-width: 400px;
+}
+.description-container  .floating-image.left
+{
+    float: left;
+    margin-right: 35px;
+    margin-bottom: 30px;
+}
+
+
+
